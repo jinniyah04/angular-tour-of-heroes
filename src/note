@@ -1,0 +1,2 @@
+파이프 : 문자열의 형식을 지정하거나, 통화 단위를 변경하고, 날짜나 데이터가 표시되는 형식을 변경 할 때 사용 
+ex) <h2>{{hero.name | uppercase}} Detials</h2> 에서 uppercase
